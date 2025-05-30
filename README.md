@@ -1,10 +1,11 @@
 # 👨‍💻 Martin Moreno Libreros
 
-**Desarrollador Full Stack | FrontEnd & BackEnd | React | Node.js**
+**Desarrollador Full Stack | FrontEnd & BackEnd | React | Node.js | TypeScript**
 
 📍 Tehuacán, Puebla, México  
 📫 martinlibreros0@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/martin-moreno-libreros-05421b308/)  
+🔗 [Computrabajo](https://candidato.mx.computrabajo.com/candidate/home)
 📱 +52 238 218 6184  
 
 ---
@@ -17,23 +18,28 @@ Trabajo con tecnologías modernas, tanto en el **FrontEnd** como en el **BackEnd
 
 ---
 
-## 🧠 Tecnologías y Habilidades
+## 🧠 Tecnologías y Herramientas
 
-### 🖥️ FrontEnd
-- ⚛️ React, Next.js  
-- 🧩 JavaScript, HTML, CSS  
-- 🎨 UI/UX con enfoque en la experiencia de usuario
+### ⚙️ Lenguajes & Frameworks
+- ⚛️ React, React Native
+- 🔷 Next.js (TypeScript & JavaScript)
+- 🟧 AngularJS
+- 🔷 TypeScript, JavaScript
+- 🐍 Python
+- 🌐 Node.js, Express.js
+- 🎨 HTML, CSS, Bootstrap
 
-### 🔧 BackEnd
-- 🧠 Node.js, Express  
-- 💾 MySQL, MongoDB (SQL y NoSQL)  
-- 🔐 Implementación de autenticaciones seguras
+### 🗃️ Bases de Datos
+- 🟢 MongoDB
+- 🐬 MySQL
 
-### 🛠️ Otras herramientas
-- 🔄 Git & GitHub  
-- 🔃 Metodologías Agile y Scrum  
-- 🌐 Español (nativo), Inglés (intermedio), conocimiento en francés
+### 🔧 Herramientas & DevOps
+- 🐧 Linux
+- 📦 VPS / Hosting
+- 🧪 Git & GitHub
+- 📋 Jira / Scrum / Agile
 
+---
 
 ## 📊 GitHub Stats
 
