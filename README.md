@@ -1,67 +1,54 @@
-# 👨‍💻 Martin Moreno Libreros
+<h1 align="center">👨‍💻 Martin Moreno Libreros</h1>
+<p align="center">
+  <b>Desarrollador Full Stack | FrontEnd & BackEnd</b><br/>
+  React · Node.js · TypeScript · Next.js · MongoDB · MySQL
+</p>
 
-**Desarrollador Full Stack | FrontEnd & BackEnd | React | Node.js | TypeScript**
+<p align="center">
+  📍 Tehuacán, Puebla, México •  
+  📧 martinlibreros0@gmail.com •  
+  📱 +52 238 218 6184  
+</p>
 
-📍 Tehuacán, Puebla, México  
-📫 martinlibreros0@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/martin-moreno-libreros-05421b308/)  
-🔗 [Computrabajo](https://candidato.mx.computrabajo.com/candidate/home)
-📱 +52 238 218 6184  
+<p align="center">
+  🔗 <a href="https://www.linkedin.com/in/martin-moreno-libreros-05421b308/">LinkedIn</a> |
+  🔗 <a href="https://candidato.mx.computrabajo.com/candidate/home">Computrabajo</a>
+</p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy un apasionado desarrollador Full Stack con experiencia en la creación de aplicaciones web y móviles. Me especializo en la **optimización de interfaces** y **mejora de sistemas** para ofrecer experiencias de usuario intuitivas y eficientes.
-
-Trabajo con tecnologías modernas, tanto en el **FrontEnd** como en el **BackEnd**, y tengo experiencia liderando equipos y entregando soluciones funcionales y escalables.
+Soy un apasionado desarrollador Full Stack con experiencia en aplicaciones web y móviles. Me especializo en la **optimización de interfaces** y la **eficiencia de sistemas**, enfocándome en ofrecer experiencias de usuario intuitivas y soluciones tecnológicas escalables.
 
 ---
 
 ## 🧠 Tecnologías y Herramientas
 
-### ⚙️ Lenguajes & Frameworks
-- ⚛️ React, React Native
-- 🔷 Next.js (TypeScript & JavaScript)
-- 🟧 AngularJS
-- 🔷 TypeScript, JavaScript
-- 🐍 Python
-- 🌐 Node.js, Express.js
-- 🎨 HTML, CSS, Bootstrap
-
-### 🗃️ Bases de Datos
-- 🟢 MongoDB
-- 🐬 MySQL
-
-### 🔧 Herramientas & DevOps
-- 🐧 Linux
-- 📦 VPS / Hosting
-- 🧪 Git & GitHub
-- 📋 Jira / Scrum / Agile
+| 🧰 Lenguajes & Frameworks | 💾 Bases de Datos | ⚙️ DevOps & Otros |
+|--------------------------|------------------|-------------------|
+| React / Next.js (TS/JS)  | MongoDB          | Git & GitHub      |
+| React Native             | MySQL            | Linux / VPS       |
+| AngularJS                |                  | Jira / Scrum      |
+| Node.js / Express        |                  | HTML / CSS / Bootstrap |
+| Python                   |                  |                   |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HilayGM&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=HilayGM&show_icons=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilayGM&layout=compact&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HilayGM&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilayGM&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=HilayGM&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 ¿Interesado en colaborar?
+## 🤝 ¿Interesado en colaborar?
 
-¡Estoy abierto a nuevas oportunidades, proyectos colaborativos o freelancing!
-
-- 💌 martinlibreros0@gmail.com  
-
-
----
+¡Estoy abierto a nuevas oportunidades, proyectos colaborativos o freelancing!  
+📩 martinlibreros0@gmail.com  
