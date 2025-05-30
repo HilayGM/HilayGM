@@ -27,6 +27,7 @@ Soy un apasionado desarrollador Full Stack con experiencia en aplicaciones web y
 
 <p align="center"> 🧠 Tecnologías y Herramientas
 
+<p aling="center">
 | 🧰 Lenguajes & Frameworks | 💾 Bases de Datos | ⚙️ DevOps & Otros |
 |--------------------------|------------------|-------------------|
 | React / Next.js (TS/JS)  | MongoDB          | Git & GitHub      |
@@ -35,7 +36,9 @@ Soy un apasionado desarrollador Full Stack con experiencia en aplicaciones web y
 | Node.js / Express        |                  | HTML / CSS / Bootstrap |
 | Python                   |                  |                   |
 
----
+---  
+</p>
+
 </p>
 <h1 align="center"> 📊 GitHub Stats</h1>
 
