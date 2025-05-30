@@ -17,13 +17,13 @@
 
 ---
 
-## 🚀 Sobre mí
+<h1 align="center"> 🚀 Sobre mí
 
 Soy un apasionado desarrollador Full Stack con experiencia en aplicaciones web y móviles. Me especializo en la **optimización de interfaces** y la **eficiencia de sistemas**, enfocándome en ofrecer experiencias de usuario intuitivas y soluciones tecnológicas escalables.
 
 ---
 
-## 🧠 Tecnologías y Herramientas
+<h1 align="center"> 🧠 Tecnologías y Herramientas
 
 | 🧰 Lenguajes & Frameworks | 💾 Bases de Datos | ⚙️ DevOps & Otros |
 |--------------------------|------------------|-------------------|
@@ -35,7 +35,7 @@ Soy un apasionado desarrollador Full Stack con experiencia en aplicaciones web y
 
 ---
 
-## 📊 GitHub Stats
+<h1 align="center"> 📊 GitHub Stats
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=HilayGM&show_icons=true&theme=tokyonight" />
