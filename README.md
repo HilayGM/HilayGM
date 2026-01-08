@@ -6,9 +6,7 @@
 </p>
 
 <p align="center">
-  📍 Tehuacán, Puebla, México &nbsp;•&nbsp;
-  📧 martinlibreros0@gmail.com &nbsp;•&nbsp;
-  📱 +52 238 218 6184
+  martinlibreros0@gmail.com &nbsp;•&nbsp;
 </p>
 
 <p align="center">
@@ -18,7 +16,7 @@
 
 ---
 
-<h2 align="center">🚀 Sobre mí</h2>
+<h2 align="center">Sobre mí</h2>
 
 <p align="center">
   Soy un apasionado desarrollador Full Stack con experiencia en aplicaciones web y móviles. Me especializo en la <b>optimización de interfaces</b> y la <b>eficiencia de sistemas</b>, enfocándome en ofrecer experiencias de usuario intuitivas y soluciones tecnológicas escalables.
@@ -26,7 +24,7 @@
 
 ---
 
-<h2 align="center">🧠 Tecnologías y Herramientas</h2>
+<h2 align="center">Tecnologías y Herramientas</h2>
 
 <p align="center">
 
@@ -88,5 +86,5 @@
 
 <p align="center">
   ¡Estoy abierto a nuevas oportunidades, proyectos colaborativos o freelancing!<br/>
-  📩 martinlibreros0@gmail.com
+  martinlibreros0@gmail.com
 </p>
