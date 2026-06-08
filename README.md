@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="The real world needs real solutions" width="100%" />
+  <img src="bannerlinkedin.png" alt="The real world needs real solutions" width="100%" />
 </p>
 
 <h1 align="center"> Martin  Libreros</h1>
@@ -66,6 +66,32 @@
 ![Spanish](https://img.shields.io/badge/Spanish-Native-E6222B?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Intermediate-00247D?style=for-the-badge)
 ![French](https://img.shields.io/badge/French-Basic-0055A4?style=for-the-badge)
+
+---
+
+<h2 align="center"> Professional Experience</h2>
+
+- **CRM Automation Specialist & Developer | IA+MKT** *(Jan - Jun 2026)*<br/>
+  Developed an internal attendance platform and implemented complex automation workflows (GoHighLevel, Kommo) to qualify leads and boost conversion rates. Handled API integrations and managed campaigns via Meta Business Suite.
+  
+- **Software Architect & Designer | Operador Logistico Tehuacan** *(May - Aug 2025)*<br/>
+  Redesigned corporate web architecture, significantly improving load speed and overall performance. Developed internal logistics interfaces and optimized user flows.
+  
+- **Mobile Developer | Ooselite** *(Jan - Apr 2025)*<br/>
+  Built and deployed a mobile application to optimize physical field collections, implementing secure authentication under agile frameworks.
+  
+- **Lead FrontEnd Architect | Zazil Ha Spa (UTT)** *(May - Aug 2024)*<br/>
+  Led the development of a web application to optimize the appointment system, delivering an intuitive UI and coordinating the development team.
+
+---
+
+<h2 align="center"> Featured Projects</h2>
+
+- **Digital Menu (Restaurant Management):** Comprehensive system built with React/Vite, Docker, and GitHub Actions (CI/CD). Features a Supabase backend for local migrations, live reporting, and modules like table mapping and inventory.
+- **RapiPOS (Web Point of Sale):** Next.js App Router POS system powered by Supabase. Includes automated migrations, SQL triggers, RLS policies, inventory management, and a reservation system.
+- **Attendance Reporting Platform:** Proprietary corporate software managing both business logic and user interface for attendance tracking.
+- **YouTube Music Clone (Multi-user):** Mobile streaming app created with React Native, Expo, and a Python (FastAPI) backend.
+- **UTT Library Frontend System:** Technical lead for a custom UI component library, managing team version control and architecture.
 
 ---
 
