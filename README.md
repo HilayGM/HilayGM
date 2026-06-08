@@ -2,7 +2,7 @@
   <img src="bannerlinkedin.png" alt="The real world needs real solutions" width="100%" />
 </p>
 
-<h1 align="center"> Martin  Libreros</h1>
+<h1 align="center"><b>MARTIN LIBREROS</b></h1>
 
 <p align="center">
   <b>Full Stack Developer | FrontEnd & BackEnd</b><br/>
