@@ -30,7 +30,7 @@
 
 <h2 align="center">Technologies & Tools</h2>
 
-### ⚙️ DevOps & Backend
+###  DevOps & Backend
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -39,7 +39,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 💻 Frontend & Mobile
+###  Frontend & Mobile
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/REACT%20NATIVE-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -49,20 +49,20 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### 📈 Automation & Marketing
+###  Automation & Marketing
 ![GoHighLevel](https://img.shields.io/badge/GoHighLevel-022046?style=for-the-badge)
 ![Kommo](https://img.shields.io/badge/Kommo-20455e?style=for-the-badge)
 ![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0468FF?style=for-the-badge&logo=meta&logoColor=white)
 ![WhatsApp Bots](https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![SMS Bots](https://img.shields.io/badge/SMS_Bots-FF6A00?style=for-the-badge)
 
-### 💾 Databases & Version Control
+###  Databases & Version Control
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### 🌍 Languages
+###  Languages
 ![Spanish](https://img.shields.io/badge/Spanish-Native-E6222B?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Intermediate-00247D?style=for-the-badge)
 ![French](https://img.shields.io/badge/French-Basic-0055A4?style=for-the-badge)
