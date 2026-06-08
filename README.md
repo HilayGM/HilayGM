@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="banner.png" alt="The real world needs real solutions" width="100%" />
+</p>
+
 <h1 align="center"> Martin  Libreros</h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack | FrontEnd & BackEnd</b><br/>
+  <b>Full Stack Developer | FrontEnd & BackEnd</b><br/>
   React · Node.js · TypeScript · Next.js · MongoDB · MySQL
 </p>
 
@@ -16,75 +20,83 @@
 
 ---
 
-<h2 align="center">Sobre mí</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  Soy un apasionado desarrollador Full Stack con experiencia en aplicaciones web y móviles. Me especializo en la <b>optimización de interfaces</b> y la <b>eficiencia de sistemas</b>, enfocándome en ofrecer experiencias de usuario intuitivas y soluciones tecnológicas escalables.
+  I am a passionate Full Stack Developer with experience in web and mobile applications. I specialize in <b>interface optimization</b> and <b>system efficiency</b>, focusing on delivering intuitive user experiences and scalable technological solutions.
 </p>
 
 ---
 
-<h2 align="center">Tecnologías y Herramientas</h2>
+<h2 align="center">Technologies & Tools</h2>
 
-<p align="center">
+### ⚙️ DevOps & Backend
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
-<table align="center">
-  <thead>
-    <tr>
-      <th>🧰 Lenguajes & Frameworks</th>
-      <th>💾 Bases de Datos</th>
-      <th>⚙️ DevOps & Otros</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>React / Next.js (TS/JS)</td>
-      <td>MongoDB</td>
-      <td>Git & GitHub</td>
-    </tr>
-    <tr>
-      <td>React Native</td>
-      <td>MySQL</td>
-      <td>Linux / VPS</td>
-    </tr>
-    <tr>
-      <td>AngularJS</td>
-      <td></td>
-      <td>Jira / Scrum</td>
-    </tr>
-    <tr>
-      <td>Node.js / Express</td>
-      <td></td>
-      <td>HTML / CSS / Bootstrap</td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
+### 💻 Frontend & Mobile
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/REACT%20NATIVE-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-</p>
+### 📈 Automation & Marketing
+![GoHighLevel](https://img.shields.io/badge/GoHighLevel-022046?style=for-the-badge)
+![Kommo](https://img.shields.io/badge/Kommo-20455e?style=for-the-badge)
+![Meta Business Suite](https://img.shields.io/badge/Meta_Business_Suite-0468FF?style=for-the-badge&logo=meta&logoColor=white)
+![WhatsApp Bots](https://img.shields.io/badge/WhatsApp_Bots-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+![SMS Bots](https://img.shields.io/badge/SMS_Bots-FF6A00?style=for-the-badge)
+
+### 💾 Databases & Version Control
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 🌍 Languages
+![Spanish](https://img.shields.io/badge/Spanish-Native-E6222B?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Intermediate-00247D?style=for-the-badge)
+![French](https://img.shields.io/badge/French-Basic-0055A4?style=for-the-badge)
 
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=HilayGM&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilayGM&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/HilayGM">
+    <img src="https://github-profile-trophy.vercel.app/?username=HilayGM&theme=radical&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </a>
 </p>
 
 <p align="center">
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=HilayGM&theme=tokyonight" />
+  <a href="https://github.com/HilayGM">
+    <img src="https://github-readme-stats.vercel.app/api?username=HilayGM&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/HilayGM">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HilayGM&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HilayGM">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HilayGM&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
-<h2 align="center">🤝 ¿Interesado en colaborar?</h2>
+<h2 align="center">🤝 Interested in collaborating?</h2>
 
 <p align="center">
-  ¡Estoy abierto a nuevas oportunidades, proyectos colaborativos o freelancing!<br/>
+  I'm open to new opportunities, collaborative projects, or freelancing!<br/>
   martinlibreros0@gmail.com
 </p>
